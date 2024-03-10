@@ -13,4 +13,4 @@ This project is a basic ChatGPT clone app built using HTML, CSS, JavaScript, and
 <h3>Technologies Used</h3>
 
 - HTML/CSS/JavaScript: Frontend markup, styling, and interactivity.
-- OpenAI ChatGPT 3.5 Turbo API: API used for generating responses based on user inputs.
+- AI Model API: An API from https://openai.com/blog/openai-api used for generating responses based on user inputs.
