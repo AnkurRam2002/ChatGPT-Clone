@@ -4,6 +4,13 @@ This project is a basic ChatGPT clone app built using HTML, CSS, JavaScript, and
 
 <h3>Preview</h3>
 
+![Main Page](Preview1.png)
+<h5 align="center">Main Page</h5>
+
+![History function](Preview2.png)
+<h5 align="center">History Function</h5>
+
+
 <h3>Features</h3>
 
 - Conversation Interface: Engage in a conversation with the ChatGPT model.
